@@ -1,20 +1,19 @@
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&pause=1000&color=F7F47B&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Itzhak+Lashinsky)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&color=F7F47B&lines=Hi%2C+my+name+is+Itzhak+Lashinsky" width="500"/>
 
-🛠 I'm currently working on: A personal trading bot project using neural networks in Python, and Telegram bots.</br>
-👥 I'm looking to collaborate on:  Machine learning projects and learning more about the field.</br>
-🤝 I'm looking for help with: Creating machine learning models.</br>
-🌱 I'm currently learning: Introduction to computer science in Java.</br>
-💬 Ask me about: Python, React, web development, servers, bots, and databases.</br>
-⚡ Fun fact: I'm combining programming in the army with my computer science degree studies.</br>
+🛠 Building: WhatsApp & Telegram bots, web apps, servers & databases.</br>
+👥 Interested in: AI, neural networks & data science.</br>
+🌱 Learning: Computer Science fundamentals (Java).</br>
+💬 Expert in: Python, React, Web Dev, Bots, Databases.</br>
+⚡ Fun Fact: Combining military programming service with CS studies.</br>
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/itzhak-leshinski)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/itzhak_il)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/itzhak.lash)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itzhak.lash/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/itzhak.lash)
 
 
 ## 💻 Tech Stack:
