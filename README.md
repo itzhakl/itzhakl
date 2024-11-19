@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Serif+Text&color=F7F47B&lines=Hi%2C+my+name+is+Itzhak+Lashinsky" width="500"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Itim&size=30&duration=2000&pause=1000&color=31F7F3&repeat=false&width=450&lines=Hi%2C+my+name+is+Itzhak+Lashinsky)](https://git.io/typing-svg)
 
 🛠 Building: WhatsApp & Telegram bots, web apps, servers & databases.</br>
 👥 Interested in: AI, neural networks & data science.</br>
@@ -53,9 +53,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhakl&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="450"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzhakl&theme=merko&hide_border=true" width="450"/>
 
-
-
 ## ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+---
+[![Profile Views Counter](https://visitcount.itsvg.in/api?id=itzhakl&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
